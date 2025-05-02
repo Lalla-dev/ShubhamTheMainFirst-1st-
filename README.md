@@ -1,4 +1,4 @@
 # ShubhamTheMainFirst-1st-
 this is my first github repository.
-\n
+<br>
 AUTHOR- Shubham Warkade
